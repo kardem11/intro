@@ -31,6 +31,7 @@ public class Main {
         String[] krediler = {"Hizli Kredi", "Maasini Halkbanktan", "Mutlu Emeklilik"};
         for (int i = 0; i < krediler.length; i++) {
             System.out.println(krediler[i]);
+            System.out.println(".................");
         }
 
 
